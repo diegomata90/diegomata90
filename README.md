@@ -31,6 +31,6 @@ if __name__ == '__main__':
 - Personal Site: https://diegomata90.github.io/
 - LikedIn : https://www.linkedin.com/in/diego-mata-1ts1st3m45/
 
-# 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
+## **𝗠𝘆 𝗦𝘁𝗮𝘁𝘀**
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=diegomata90&show_icons=true&hide_border=true)
