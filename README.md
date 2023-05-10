@@ -29,8 +29,8 @@ if __name__ == '__main__':
 ```
 ## Get in touch
 
-- Twitter: https://twitter.com/diegomata90
 - Personal Site: https://diegomata90.github.io/
+- LikedIn : https://www.linkedin.com/in/diego-mata-1ts1st3m45/
 
 # 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
 
