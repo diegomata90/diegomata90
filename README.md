@@ -7,7 +7,6 @@ class Diegomata90:
         self.username = 'diegomata90'
         self.name = 'Diego Mata'
         self.web = 'https://diegomata90.github.io/'
-        self.twitter = '@diegomata90'
         self.code = {
             'frontend': ['HTML', 'CSS', 'JavaScript', 'Boostrap'],
             'backend': ['Python', 'PHP', 'Flask'],
