@@ -5,15 +5,15 @@ class Diegomata90:
 
     def __init__(self):
         self.username = 'diegomata90'
-        self.name = 'Diego Matamán'
+        self.name = 'Diego Mata'
         self.web = 'https://diegomata90.github.io/'
         self.twitter = '@diegomata90'
         self.code = {
-            'frontend': ['HTML', 'CSS', 'JavaScript', 'Boostrap',],
+            'frontend': ['HTML', 'CSS', 'JavaScript', 'Boostrap'],
             'backend': ['Python', 'PHP', 'Flask'],
             'database': ['MySQL', 'SQLite3'],
-            'devops': ['Docker', 'GitHub Actions', 'Heroku'],
-            'tools': ['GIT', 'GitHub', 'GitLab', 'Pandas', 'Jupyter notebook', 'SQLAlchemy',],
+            'devops': ['Docker', 'GitHub Actions'],
+            'tools': ['GIT', 'GitHub', 'GitLab', 'Pandas','Google Colab' 'Jupyter notebook', 'SQLAlchemy'],
             'misc': ['Firebase', 'TDD', 'GNU/Linux']
         }
         self.architecture = [ 'MVC', 'Serverless']
@@ -30,7 +30,7 @@ if __name__ == '__main__':
 ## Get in touch
 
 - Twitter: https://twitter.com/diegomata90
-- Personal Site: https://diegomata90.github.io
+- Personal Site: https://diegomata90.github.io/
 
 # 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
 
