@@ -9,13 +9,13 @@ class Diegomata90:
         self.web = 'https://diegomata90.github.io/'
         self.code = {
             'frontend': ['HTML', 'CSS', 'JavaScript', 'Boostrap'],
-            'backend': ['Python', 'PHP', 'Flask','C# .net'],
+            'backend': ['Python', 'PHP', 'Flask','C# .net','kotlin'],
             'database': ['SQLSERVER','MySQL', 'SQLite3'],
             'devops': ['Docker', 'GitHub Actions'],
-            'tools': ['GIT', 'GitHub', 'GitLab', 'Pandas','Google Colab' 'Jupyter notebook', 'SQLAlchemy'],
+            'tools': ['GIT', 'GitHub', 'GitLab', 'Pandas','Google Colab' 'Jupyter notebook', 'SQLAlchemy','Android'],
             'misc': ['Firebase', 'TDD', 'GNU/Linux']
         }
-        self.architecture = [ 'MVC', 'Serverless']
+        self.architecture = [ 'MVC', 'Serverless','MVVM']
 
     def __str__(self):
         return self.name
