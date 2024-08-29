@@ -9,8 +9,8 @@ class Diegomata90:
         self.web = 'https://diegomata90.github.io/'
         self.code = {
             'frontend': ['HTML', 'CSS', 'JavaScript', 'Boostrap'],
-            'backend': ['Python', 'PHP', 'Flask','C# .net','kotlin'],
-            'database': ['SQLSERVER','MySQL', 'SQLite3'],
+            'backend': ['Python', 'Flask','Reflex', 'PHP','C# .net','Kotlin'],
+            'database': ['SQLSERVER','MySQL','PostgreSQL'],
             'devops': ['Docker', 'GitHub Actions'],
             'tools': ['GIT', 'GitHub', 'GitLab', 'Pandas','Google Colab' 'Jupyter notebook', 'SQLAlchemy','Android'],
             'misc': ['Firebase', 'TDD', 'GNU/Linux']
